@@ -1,0 +1,55 @@
+#body {
+    background-color: rgb(51, 95, 140);
+}
+
+#form {
+    width: 450px;
+    height: 500px;
+    border:5px , black ;
+    background-color:aliceblue;
+    margin-left: 400px;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+#firstName {
+    width: 390px;
+    height: 30px;
+   padding-left: 10px;
+   margin-right: 20px;
+}
+#lastName {
+    width: 390px;
+    height: 30px;
+   padding-left: 10px;
+}
+#email {
+    width: 390px;
+    height: 30px;
+   padding-left: 10px;
+   /* margin-top: 30px; */
+}
+#password {
+    width: 390px;
+    height: 30px;
+   padding-left: 10px;
+   /* margin-top: 30px; */
+}
+.button {
+     width: 200px;
+     height: 50px;
+     padding-left:10px ;
+     background-color: rgb(63, 94, 131);
+     font-size: 20px;
+     border-radius: 6px;
+     margin-top: 20px;
+}
+#link {
+    margin-top: 30px;
+}
+#last {
+    margin-left: 500px;
+    font-size:20px ;
+    color: white;
+}
